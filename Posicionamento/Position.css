@@ -1,0 +1,58 @@
+.box{
+    width: 80px;
+    height: 80px;
+    margin: 8px;
+}
+
+.box0{
+    background-color: coral;
+    position: relative;
+    left: 15px;
+    top: 15px;
+}
+
+.box1{
+    background-color: brown;
+    position: relative;
+    left: 25px;
+    top: 700px
+}
+
+.box2{
+    background-color: burlywood;
+    position: absolute;
+    left: 25px;
+    top: 20px;
+}
+
+.box3{
+    background-color: cadetblue;
+    position: fixed;
+    left: 30px;
+    top: 25px;
+}
+
+
+.box4{
+    background-color: crimson;
+    position: absolute;
+    top: 15px;
+    left: 160px;
+    z-index: 1;
+}
+
+.box5{
+    background-color:mediumslateblue;
+    position: absolute;
+    top: 20px;
+    left: 165px;
+    z-index: 3;
+}
+
+.box6{
+    background-color:khaki;
+    position: absolute;
+    top: 25px;
+    left: 170px;
+    z-index: 2;
+}
