@@ -24,7 +24,7 @@ O <code>position</code> indica onde o elemento vai ser posicionado na página. A
 Quando o <code>position</code> é <code>relative</code> os elementos são deslocados do seu posicionamento normal, mas sem afetar o posicionamento de outros elementos da página.
 
 ### Absolute
-Quando o <code>position</code> é <code>absolute</code> o elemento é deslocado saindo do fluxo normal. O elemento de <code>position absolute</code> é posicionado em relação ao seu parent element mais próximo. Se esse elemento "pai" não existir, ele será posicionando em relação ao bloco contendo a raiz do elemento.
+Quando o <code>position</code> é <code>absolute</code> o elemento é deslocado saindo do fluxo normal. O elemento de <code>position absolute</code> é posicionado em relação ao seu parent element mais próximo. Se esse elemento "pai" não existir, ele será posicionado em relação ao bloco contendo a raiz do elemento.
 
 ### Fixed
 Quando aplicado o <code>position fixed</code> é como se criasse um elemento flutuante que fica fixo na página, independente do scrolling feito.

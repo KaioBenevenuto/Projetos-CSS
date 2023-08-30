@@ -1,0 +1,73 @@
+body{
+    font-family: sans-serif;
+}
+
+#I{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#II{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#III{
+    font-weight: lighter;
+}
+#IV{
+    font-weight: bolder;
+}
+
+#V{
+    font-style: italic;
+}
+#VI {
+    font-style: oblique;
+}
+
+#VII{
+    font-size: 15px;
+}
+#VIII {
+    font-size: 1.8em;
+}
+
+#IX{
+    font-family: 'Quicksand', sans-serif;
+}
+
+#X{
+    font-variant: small-caps;
+}
+#XI{
+    font-stretch:condensed;
+}
+
+#XII{
+    letter-spacing: 5px;
+}
+#XIII{
+    word-spacing: 2em;
+}
+
+#XIV{
+    display: block;
+    line-height: 0.5;
+}
+#XV{
+    text-transform:capitalize;
+}
+
+#XVI{
+    text-decoration: underline wavy darkslateblue;
+}
+
+#XVII{
+    text-align: center;
+}
+
+#XVIII{
+    text-shadow: 1px 1px 9px red, 1px 1px 5px darkslateblue;
+}
+
+#IXX{
+    font: oblique small-caps lighter expanded 20px/5 'Quicksand', sans-serif;
+}
